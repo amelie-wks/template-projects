@@ -78,7 +78,7 @@ img {
  h3{
  	color:ghostwhite !important;
 	padding-bottom:0px;
-	font-size:normals;
+	font-size:normal;
  }
 
  .box-4{
@@ -98,7 +98,79 @@ img {
 	padding-bottom:15px;
 	padding-top:5%;
 	line-height:10%;
+	font-size:17px;
  }
+
+ .box-6{
+	background-color:#2f344f !important;
+	border:5px #2f344f solid;
+	width:80%;
+	margin:auto;
+	padding:normal;
+	font-size:18px;
+	border-radius:16px;
+   padding: auto;
+ }
+
+ h5{
+   color:ghostwhite !important;
+   padding-bottom:15px;
+   padding-top:5%;
+   line-height:10%;
+   font-size:22px;
+ }
+
+ .box-7{
+	background-color:#2f344f !important;
+	border:5px #2f344f solid;
+	width:80%;
+	margin:auto;
+	padding:normal;
+	font-size:18px;
+	border-radius:16px;
+   padding: auto;
+ }
+
+ h6{
+	color:ghostwhite !important;
+	padding-bottom:15px;
+	padding-top:5%;
+	line-height:10%;
+	font-size:22px;
+  }
+
+  .box-9{
+	background-color:#2f344f !important;
+	border:5px #2f344f solid;
+	width:80%;
+	margin:auto;
+	padding:normal;
+	font-size:18px;
+	border-radius:16px;
+   padding: auto;
+ }
+
+ h6{
+	color:ghostwhite !important;
+	padding-bottom:15px;
+	padding-top:5%;
+	line-height:10%;
+	font-size:22px;
+  }
+
+  .box-10{
+	background-color:#2f344f !important;
+	border:5px #2f344f solid;
+	width:80%;
+	margin:auto;
+	padding:normal;
+	font-size:18px;
+	border-radius:16px;
+   padding: auto;
+ }
+
+
+
 
 .wrapper{
 	width:100% !important;
