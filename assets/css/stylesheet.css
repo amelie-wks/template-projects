@@ -169,6 +169,27 @@ img {
    padding: auto;
  }
 
+ .box-12{
+	background-color:#2f344f !important;
+	border:5px #2f344f solid;
+	width:80%;
+	margin:auto;
+	padding:normal;
+	font-size:18px;
+	border-radius:16px;
+   padding: auto;
+ }
+
+ .box-13{
+	background-color:#2f344f !important;
+	border:5px #2f344f solid;
+	width:80%;
+	margin:auto;
+	padding:normal;
+	font-size:18px;
+	border-radius:16px;
+   padding: auto;
+ }
 
 
 
